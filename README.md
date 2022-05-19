@@ -1,7 +1,7 @@
 # Motoko
 
 A new Flutter project.
-一个使用Flutter构建的前端项目
+一个使用Flutter构建的原声应用
 
 ## 依赖说明
 
