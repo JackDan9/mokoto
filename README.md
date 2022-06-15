@@ -11,6 +11,7 @@ A new Flutter project.
 
 ## 项目功能
 
+- [X] APP图标替换
 - [X] 首页
 - [ ] 首页/滚动展示数据
 - [X] 我的
@@ -22,6 +23,9 @@ A new Flutter project.
 - [ ] 我的/我的活动
 - [ ] 我的/我的团队
 - [ ] 我的/邀请好友
+
+
+## 效果图
 
 ## 官方文档参考- Getting Started
 
